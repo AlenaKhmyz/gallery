@@ -13,9 +13,6 @@ async function getCards() {
         <img src="${cards[key].url}" width="400">
       </div>
     `
-      
-    
-    console.log(cards[key])
   }
 
 }
